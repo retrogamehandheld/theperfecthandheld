@@ -24,7 +24,7 @@
 * 4 Action Buttons (A, B, X, Y or maybe symbols for easier emulation mapping... Like 🔥, ⚡, ⭐, ✔️)
 * Home Button (Button used to return to the system's main menu)
 * Menu Button (Button used as a universal pause, start menu, or emulation menu button.)
-* F1, F2, F3... (Extra buttons that are designed to be mapped to in-game Start/Select buttons, but may also be useful for mapping state manipulation/recalling. Needs at least F1 & F2. More could be added, I guess.)
+* Start/elect function buttons on face
 * Left/Right Analog Sticks (Low-profile for portability)
 * L3/R3
 
