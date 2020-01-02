@@ -4,7 +4,7 @@
 * Raspberry Pi CM3
 
 ## Screen:
-* Something near 4.5"
+* Something near 4.3"
 * 800x480 16:10
 * 60Hz screen
 
