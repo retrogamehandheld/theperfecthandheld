@@ -4,7 +4,7 @@
 * Raspberry Pi CM3
 
 ## RAM
-* 4 GB
+* 1 GB
 
 ## Screen:
 * Something near 4.3"
