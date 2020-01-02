@@ -6,6 +6,7 @@
 ## Screen:
 * Something near 4.5"
 * 800x480 16:10
+* 60Hz screen
 
 ## Firmware:
 * Maybe NxHope, Batocera ?
