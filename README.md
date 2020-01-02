@@ -31,6 +31,8 @@
 ## Misc Hardware:
 * Battery indicator light
 * 3000 mAh battery
+* Rumble motor
+* RTC
 
 ## Target Price:
 * <= $100USD Retail
