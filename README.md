@@ -1,7 +1,7 @@
 # theperfecthandheld
 
 ## CPU Options:
-* Raspberry Pi CM3
+* Raspberry Pi CM3 or Rockchip
 
 ## RAM
 * 2 GB
