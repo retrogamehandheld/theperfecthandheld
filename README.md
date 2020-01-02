@@ -1,25 +1,40 @@
 # theperfecthandheld
 
-4.5 inch 720p 16:9 screen
+Specs:
+	Some unknown ARM CPU/GPU
 
-some unknown ARM CPU/GPU
+Screen:
+	Something near 4.5"
+	Maybe 720p?
+	16:9
 
-Low profile RGH sticks, both low
+Firmware:
+	Maybe NxHope, Batocera ?
 
-D-pad, L2/R2, 6 face buttons
+IO:
+	Internal SD Card Slot (Used for firmware)
+	External SD Card Slot (Used for user preferences, saves, media, etc.)
+	USB-C Port (Do we want USB host mode? HCI mode?)
+	Maybe USB-A Port? (Wi-Fi adaptor or host mode?)
+	Exposed GPIO headers under the battery cover?
 
-OS: NxHope, Batocera
+Buttons:
+	D-Pad
+	L1/L2, R1/R2
+	4 Action Buttons (A, B, X, Y or maybe symbols for easier emulation mapping... Like 🔥, ⚡, ⭐, ✔️)
+	Home Button (Button used to return to the system's main menu)
+	Menu Button (Button used as a universal pause, start menu, or emulation menu button.)
+	F1, F2, F3... (Extra buttons that are designed to be mapped to in-game Start/Select buttons, but may also be useful for mapping state manipulation/recalling)
+	Left/Right Analog Sticks (Low-profile for portability)
 
-Battery indicator
+Misc Hardware:
+	Battery indicator light
+	3000 mAh battery
 
-3000 mAh battery
+Target Price:
+	<= $100USD Retail
 
-dual SD slots
+Target Emulation Systems:
+	PSP/N64/Dreamcast/PS2 If Possible
 
-USB-C charging port
-
-WiFi or USB-A port for WiFi adapter
-
-Potentially PSP/N64/Dreamcast/PS2 emulation, if possible. 
-
-USD $100 target price point 
+![Current Render]("/Mock-Ups/Current.png")
