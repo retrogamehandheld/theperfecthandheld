@@ -1,6 +1,6 @@
 # theperfecthandheld
 
-======
+===
 
 ## Specs:
 * Some unknown ARM CPU/GPU
