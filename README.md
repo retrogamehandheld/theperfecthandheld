@@ -47,4 +47,6 @@
 * Create a console that can be extended to others users
 * Create a console that has versitility to play many game systems and homebrew
 
-![Current Render]("/Mock-Ups/Current.png")
+## Current Mock-Up:
+
+![Current Render](/Mock-Ups/Current.png)
