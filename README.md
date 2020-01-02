@@ -5,6 +5,7 @@
 
 ## RAM
 * 2 GB
+* Dual channel if possible
 
 ## Screen:
 * Something near 4.3"
