@@ -49,4 +49,4 @@
 
 ## Current Mock-Up:
 
-![Current Render](/Mock-Ups/Current.png)
+![Current Render](/Mock-Ups/CURRENT.png)
