@@ -3,6 +3,9 @@
 ## CPU Options:
 * Raspberry Pi CM3
 
+## RAM
+* 4 GB
+
 ## Screen:
 * Something near 4.3"
 * 800x480 16:10
