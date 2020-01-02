@@ -4,7 +4,7 @@
 
 some unknown ARM CPU/GPU
 
-Low profile RGH sticks, both low
+Low profile RGH sticks, both low-mounted
 
 D-pad, L2/R2, 6 face buttons
 
