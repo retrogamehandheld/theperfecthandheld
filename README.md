@@ -12,7 +12,7 @@ Firmware:
 	Maybe NxHope, Batocera ?
 
 IO:
-	Internal SD Card Slot (Used for firmware)
+	Internal SD Card Slot (Used for firmware... Not behind the battery.)
 	External SD Card Slot (Used for user preferences, saves, media, etc.)
 	USB-C Port (Do we want USB host mode? HCI mode?)
 	Maybe USB-A Port? (Wi-Fi adaptor or host mode?)
@@ -26,6 +26,7 @@ Buttons:
 	Menu Button (Button used as a universal pause, start menu, or emulation menu button.)
 	F1, F2, F3... (Extra buttons that are designed to be mapped to in-game Start/Select buttons, but may also be useful for mapping state manipulation/recalling)
 	Left/Right Analog Sticks (Low-profile for portability)
+	L3/R3
 
 Misc Hardware:
 	Battery indicator light
