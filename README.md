@@ -20,6 +20,6 @@ USB-C charging port
 
 WiFi or USB-A port for WiFi adapter
 
-Potentially PSP/N64/Dreamcast/PS2 emulation, if possible. 
+Potentially PSP/N64 emulation, if possible. 
 
 USD $100 target price point 
