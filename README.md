@@ -5,8 +5,7 @@
 
 ## Screen:
 * Something near 4.5"
-* Maybe 720p?
-* 16:9
+* 800x480 16:10
 
 ## Firmware:
 * Maybe NxHope, Batocera ?
@@ -35,10 +34,10 @@
 * RTC
 
 ## Target Price:
-* <= $100USD Retail
+* <= $100 USD Retail
 
 ## Target Emulation Systems:
-* PSP/N64/Dreamcast/PS2 If Possible
+* PSP/N64/Dreamcast If Possible
 
 ## Design Philosophy:
 * Create a console that's easily accessible to developers
