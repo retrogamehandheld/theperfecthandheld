@@ -21,12 +21,11 @@
 ## Buttons:
 * D-Pad
 * L1/L2, R1/R2
-* 4 Action Buttons (A, B, X, Y or maybe symbols for easier emulation mapping... Like 🔥, ⚡, ⭐, ✔️)
+* 6 Action Buttons (A-B-C, X-Y-Z)
 * Home Button (Button used to return to the system's main menu)
 * Menu Button (Button used as a universal pause, start menu, or emulation menu button.)
 * Start/elect function buttons on face
-* Left/Right Analog Sticks (Low-profile for portability)
-* L3/R3
+* Left/Right Analog Sticks (Low-profile RGH/RavenKilt design for portability and L3/R3 support)
 
 ## Misc Hardware:
 * Battery indicator light
