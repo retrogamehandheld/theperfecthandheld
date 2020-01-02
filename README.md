@@ -1,7 +1,7 @@
 # theperfecthandheld
 
-## Specs:
-* Some unknown ARM CPU/GPU
+## CPU Options:
+* Raspberry Pi CM3
 
 ## Screen:
 * Something near 4.5"
